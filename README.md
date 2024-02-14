@@ -1,1 +1,3 @@
-arquivo de execuçao fcal
+feito com netbeans
+
+arquivo de execuçao fcal 
